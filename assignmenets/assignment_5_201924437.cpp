@@ -7,7 +7,7 @@ private:
     int index=0;                    // 현재 집합의 길이
     int *elementSet;                // 집합을 담을 배열
 public:
-    MySet(int num) {                  // constructor
+    MySet(int num) {                // constructor
         n = num;
         elementSet = new int[n];
     }
