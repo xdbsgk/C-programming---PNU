@@ -119,7 +119,6 @@ int inputSet(MySet& set){
     return 1;
 }
 
-
 int inputSet(string name, MySet& set) {
     string numLines;
     string bufFloat;
