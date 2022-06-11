@@ -13,7 +13,7 @@ int main() {
 
     for (it = mySet.begin(); it != mySet.end(); it++) {
         cout << *it << " ";
-    }
+    } cout << endl;
 
     return 0;
 }
